@@ -25,4 +25,4 @@
 
 - What is the minimum required for you to present on your demo day?
 
-  We provided the main idea of the project with the wireframes requiered also the API's that we want to use to biuld up the project.
+  We provided the main idea of the project with the wireframes required also the API's that we want to use to build up the project.
