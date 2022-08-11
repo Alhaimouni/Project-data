@@ -1,28 +1,18 @@
 
-# <Our Project name>
-
-## Team Members:
-
-- Hasan Abedalqader (***Team Leader***)
-- Mohammad Al-haimouni 
-- Fawzi Shiyyab
-- Ibrahieem Adarbeh
-- Eman Riziq
-- Fatema Khwaileh
-
-## Strength points of each member 
-
+# Our Project name
 
 | Member | Stringth points |
-| --- | ----------- |
-| Hasan Abedalqader | - add stringths |
+| --- |----------- |
+| Hasan Abedalqader -***Team leader***- | - add stringths |
 | Mohammad Al-haimouni  | - add stringths |
 | Fawzi Shiyyab | - add stringths |
 | Ibrahieem Adarbeh | - add stringths |
 | Eman Riziq | - add stringths |
 | Fatema Khwaileh | - add stringths |
-	
+
 ---
+
+**Cooperation Plan** :
 	
 - How can you best utilize these strengths in the execution of your project?
 	
@@ -30,7 +20,7 @@
 	
 - In which professional competencies do you each want to develop greater strength?
 
-	add notes
+	============================================
 	
 - Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
 		
@@ -89,37 +79,57 @@
 	
 - What is your strategy for ensuring everyone’s voice is heard?
 	
-	give the leader to manage the stratigy that ensuring all of the team members are leard.
+	the strategy that ensuring all of the team members are heard by making a list of suggestions for each member every single day.
 	
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
 	
-	A lot of Interactive communication.
+	By allowing to speak effectively to each member and the importance of respecting all members with their different opinions.
 
 ---
 
 **Work Plan** :
 
 - How will you identify tasks, assign tasks, know when they are complete, and manage work in general?
-By contacting the team before submitting the tasks.
+	
+	Task assigned and managing will done by the leader depending on strength points for each member and the task it self also.
+	
 - What project management tool will be used?
-Trello.
-
-
-## Git Process
+	
+	- Trello.
+	
+---
+	
+**Git Process** :
 
 - What components of your project will live on GitHub?
-News-Box-FrontEnd and News-Box-BackEnd.
+	
+	============================
+	
 - How will you share the repository with your teammates?
-They will be a team member at the organization(and we will share it between each other).
+	
+	They will be a team member at the organization(and we will share it between each other).
+	
 - What is your Git flow?
-ACP -then await to merge the pull request by the responsible one.
+	
+	Each member will do the *ACP* to upload his work on the organization individually befor review them and merge by the leader.
+	
 - Will you be using a PR review workflow? If so, consider:
+	
+	=================================
+
 - How many people must review a PR?
-All of the team members.
+	
+	4 members at least.
+	
 - Who merges PRs?
-Ahmad Jubran.
+	
+	Hasan abedalqader
+
 - How often will you merge?
-At the end of each feature.
+	
+	After a meeting with all members at the end of the day .
+	
 - How will you communicate that it’s time to merge?
-On the communication channels (Slack).
+	
+	On our own Dicord server.
 
