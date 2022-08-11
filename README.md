@@ -75,17 +75,29 @@
 	- WhatsApp.
 	
 - How often will you take breaks?
-(Launch Time) 
+	
+	- Long break (***Around 1,30 hour***) for lunch meal.
+	- short breaks for pray 
+	
 - What is your plan if you start to fall behind?
-Try to complete every feature before going to the next one (complete the most important feature).
+	
+	Complete every feature before going to the next one.
+	
 - How will you communicate after hours and on the weekend?
-Discord and WhatsApp.
+	
+	We will keep on-touch in discord.
+	
 - What is your strategy for ensuring everyone’s voice is heard?
-Voting to any discussion from any team member.
+	
+	give the leader to manage the stratigy that ensuring all of the team members are leard.
+	
 - How will you ensure that you are creating a safe environment where everyone feels comfortable speaking up?
-A lot of Interactive communication.
+	
+	A lot of Interactive communication.
 
-## Work Plan
+---
+
+**Work Plan** :
 
 - How will you identify tasks, assign tasks, know when they are complete, and manage work in general?
 By contacting the team before submitting the tasks.
