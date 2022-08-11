@@ -10,53 +10,70 @@
 - Eman Riziq
 - Fatema Khwaileh
 
+## Strength points of each member 
+
+
+| Member | Stringth points |
+| --- | ----------- |
+| Hasan Abedalqader | - add stringths |
+| Mohammad Al-haimouni  | - add stringths |
+| Fawzi Shiyyab | - add stringths |
+| Ibrahieem Adarbeh | - add stringths |
+| Eman Riziq | - add stringths |
+| Fatema Khwaileh | - add stringths |
+	
+---
+	
+- How can you best utilize these strengths in the execution of your project?
+	
+	From using those skills in the project by determining the appropriate place for each skill.
+	
+- In which professional competencies do you each want to develop greater strength?
+
+	add notes
+	
+- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
+		
+	We have set a time to meet daily to discuss the work done and to clarify all matters for those who have not fully clarified things.
+	
+---
+	
+**Conflict Plan** :
+
+- What will be your group’s process to resolve conflict, when it arises?
+	
+	Discussion between each other to solve the conflict and with the team leader.
+
+- What will your team do if one person is taking over the project and not letting the other members contribute?
+	
+	Discussion between each other to solve the conflict and with the team leader.
+
+- How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
+	
+	Meetings between each other will help us to be on the same road.
+
+- How will you raise concerns to members who are not adequately contributing?
+	
+	Remind them about the circumstances of not contributing.
+
+- How and when will you escalate the conflict if your resolution attempts are unsuccessful?
+	
+	When the Team Leader fails - then speak to the Instructional Team.
+
 ---
 
-- What are the key strengths of each person on the team?
-Fahad Zidan (Building Express Server-using bootstrap).
-Abdallah Smadi (Express Server-React).
-Ahmad Jubran (CSS-React).
-Wlla Talafha (Backend general features-HTML-Markdown Sheet).
-Suhaib Al-Naji (FrontEnd bootstrap-MongoDB).
-Sadrah Al-Sabagh (Express Server-React-WireFrame).
-Qais Al-Sgher (React Class Component-Backend).
-- How can you best utilize these strengths in the execution of your project?
-- By concentrating on the main skills of each one of our team.
-	- In which professional competencies do you each want to develop greater strength?
-Abdallah Smadi (FullStack).
-Fahad Zidan (BackEnd).
-Ahmad Jubran (FrontEnd).
-Wlla Talafha (FullStack).
-Suhaib Al-Naji (BackEnd).
-Sadrah Al-Sabagh (FullStack).
-Qais Al-Sgher(SME Web Developer).
-- Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
-- Schedule meetings day-by-day (Separate Tasks between each other regarding to strength point).
-Conflict Plan:
-
--What will be your group’s process to resolve conflict, when it arises?
-- Discussion between each other to solve the conflict and with the team leader.
-
--What will your team do if one person is taking over the project and not letting the other members contribute?
--Discussion between each other to solve the conflict and with the team leader.
-
--How will you approach each other and the challenges of the project knowing that it is impossible for all members to be at the exact same place in understanding and skill level?
-- Meetings between each other will help us to be on the same road.
-
--How will you raise concerns to members who are not adequately contributing?
-- Remind them about the circumstances of not contributing.
-
--How and when will you escalate the conflict if your resolution attempts are unsuccessful?
-- When the Team Leader fails - then speak to the Instructional Team.
-
-
-
-## Communication Plan
+**Communication Plan** :
 
 - What hours will you be available to communicate?
-10:00 AM- 4:00 PM
+	
+	9:00 AM- 9:00 PM
+	
 - What platforms will you use to communicate (ie. Slack, phone …)?
-Zoom,Discord,Slack and WhatsApp.
+	
+	- Slack
+	- Discord
+	- WhatsApp.
+	
 - How often will you take breaks?
 (Launch Time) 
 - What is your plan if you start to fall behind?
