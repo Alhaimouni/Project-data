@@ -33,11 +33,18 @@
 ## Unfunctional Requirements 
 
 - Usability
+
     The Sitting Number face of system should use terms and concepts which are draw from the experience of people who will make most of the system (easy to use).
+    
 - Efficiency    
+
     The system provides easy and fast access without consuming more cost.
+    
 - Security    
+
     The system should be saving the privacy of the user and be secure.
+    
 - Accessibility
+
     The system shall be easy to access by users.
  
